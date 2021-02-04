@@ -1,9 +1,9 @@
 # YAML Tutorial
 
 ## What is YAML?
-### YAML Ain't MarkUp Language, is a data serialization language. Other examples are json, xml, etc. YAML is the cleanest & most human readable of them all.
+YAML Ain't MarkUp Language, is a data serialization language. Other examples are json, xml, etc. YAML is the cleanest & most human readable of them all.
 ## YAML Use Cases
-### Docker, Kubernetes, Ansible, Prometheus, etc. configuration files all written in YAML.
+Docker, Kubernetes, Ansible, Prometheus, etc. configuration files all written in YAML.
 
 ## Basic Syntax of YAML
 
